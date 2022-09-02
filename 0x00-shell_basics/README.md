@@ -1,1 +1,1 @@
-where am i
+print path name
