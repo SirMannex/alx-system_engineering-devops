@@ -1,1 +1,1 @@
-nomo
+direc
