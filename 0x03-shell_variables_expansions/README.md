@@ -1,1 +1,1 @@
-varaiables
+local
